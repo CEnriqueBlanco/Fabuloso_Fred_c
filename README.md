@@ -51,7 +51,7 @@ Archivo principal:
 ### Opcion 1: g++ (MinGW) en Windows
 
 ```bash
-g++ "FABULOSO FREDD -BlancoOrtiz-TrejoTapia-GallardoJimenez-LopezCardenas.cpp" -o fabuloso_fredd.exe
+g++ "FABULOSO FREDD.exe
 fabuloso_fredd.exe
 ```
 
