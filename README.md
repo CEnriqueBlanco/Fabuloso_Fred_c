@@ -46,13 +46,12 @@ Nota: el codigo usa funciones de Windows como `Sleep`, `Beep`, `SetConsoleTextAt
 
 Archivo principal:
 
-- `FABULOSO FREDD -BlancoOrtiz-TrejoTapia-GallardoJimenez-LopezCardenas.cpp`
+- `FABULOSO FREDD.cpp`
 
 ### Opcion 1: g++ (MinGW) en Windows
 
 ```bash
-g++ "FABULOSO FREDD.exe
-fabuloso_fredd.exe
+g++ "FABULOSO FREDD.exe" -o fabuloso_fredd.exe
 ```
 
 ### Opcion 2: Visual Studio
